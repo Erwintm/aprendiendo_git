@@ -1,0 +1,4 @@
+git rm (nombre archvio).- Borra el archivo tanto en la pc y el repo,si necesidad de preparlo(sin hacer add .) 
+y hacer commit 
+
+git rm -- cached (archivo).- Borra el arhcivo en el repositorio pero no en la maquina
